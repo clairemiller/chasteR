@@ -4,7 +4,7 @@
 \alias{readCellLocations}
 \title{Load cell locations file}
 \usage{
-readCellLocations(filepath, num_dims = 2)
+readCellLocations(filepath, num_dims = 3)
 }
 \arguments{
 \item{filepath}{the path to the containing results folder}

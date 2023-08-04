@@ -6,7 +6,7 @@ Authors@R: c(person("Claire", "Developer", role = c("aut", "cre"),
                      email = "millerc2@student.unimelb.edu.au"))
 Author: Claire Miller [aut, cre]
 Maintainer: Claire Miller <millerc2@student.unimelb.edu.au>
-Depends: R (>= 3.2.5), data.table
+Depends: R (>= 3.2.5)
 Suggests:
 Description: A package for reading and manipulating Chaste output
-RoxygenNote: 6.1.1
+RoxygenNote: 7.2.3

@@ -4,8 +4,7 @@
 \alias{applyFunctionToResultsDirectories}
 \title{Loop a function over a set of results directories}
 \usage{
-applyFunctionToResultsDirectories(fun, maindir = "./", pattern = "",
-  ...)
+applyFunctionToResultsDirectories(fun, maindir = "./", pattern = "", ...)
 }
 \arguments{
 \item{fun}{the function to apply}

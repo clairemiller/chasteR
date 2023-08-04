@@ -4,7 +4,7 @@
 \alias{readCellData}
 \title{Read a cell data file}
 \usage{
-readCellData(filepath, var_name, dimensions = 2)
+readCellData(filepath, var_name, dimensions = 3)
 }
 \arguments{
 \item{var_name}{the variable name of the cell data from chaste}
